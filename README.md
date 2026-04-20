@@ -17,7 +17,7 @@ I'm Andrey — Frontend Engineer, 5 years. Mostly Vue/React + TypeScript, last 1
 
 ### Featured
 
-- **[ton-testnet-wallet](https://github.com/Rampagka/test-wallet)** — self-custodial TON wallet with address-poisoning protection, built Vue 3 + TypeScript
+- **[ton-self-custodial-wallet](https://github.com/Rampagka/ton-self-custodial-wallet)** — self-custodial TON wallet with address-poisoning protection, built Vue 3 + TypeScript
 
 ### Currently
 
