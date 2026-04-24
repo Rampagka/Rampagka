@@ -8,6 +8,14 @@ I'm Andrey — Frontend Engineer, 5 years. Mostly Vue/React + TypeScript, last 1
 - 👥 Mentored 2 junior devs, set up Code Review process for a team of 4
 - 🤖 Work with Claude Code / LLM agents as part of daily workflow, not as an afterthought
 
+### Production projects
+
+- **[swap.coffee](https://swap.coffee/)** — DeFi platform on TON. Aggregator + DEX + limit orders + DCA + Yield pools. Started as solo frontend developer, ~3 years in the project.
+- **deWallet** — non-custodial crypto wallet as Telegram Mini App. Full redesign and refactor. Stack: React, Redux Toolkit, RTK Query.
+- **[thermos.gifts](https://thermos.gifts/)** — NFT gifts aggregator on Telegram.
+- **Arbuz Clicker** — Telegram Mini App clicker, 50,000+ users in 3 months.
+- **Betty** — fantasy league Telegram bot with token rewards.
+
 ### Stack
 
 **Daily:** Vue 3, TypeScript, Pinia, Tailwind, Vite, Vitest
