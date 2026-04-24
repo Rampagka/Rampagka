@@ -14,7 +14,7 @@ I'm Andrey — Frontend Engineer, 5 years. Mostly Vue/React + TypeScript, last 1
 - **deWallet** — non-custodial crypto wallet as Telegram Mini App. Full redesign and refactor. Stack: React, Redux Toolkit, RTK Query.
 - **[thermos.gifts](https://thermos.gifts/)** — NFT gifts aggregator on Telegram.
 - **Arbuz Clicker** — Telegram Mini App clicker, 50,000+ users in 3 months.
-- **Betty** — fantasy league Telegram bot with token rewards.
+- **Betty** — fantasy league Telegram Mini App with token rewards.
 
 ### Stack
 
