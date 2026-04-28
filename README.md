@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Andrey — Senior Frontend Engineer, 5 years. Mostly Vue/React + TypeScript, last 2.5 years deep in **Web3, TON, and Telegram Mini Apps**.
+I'm Andrey — Senior Frontend Engineer, 5 years on Vue + TypeScript, last 2.5 years deep in **Web3**, **TON**, and **Telegram Mini Apps**.
 
 - 🚀 Shipped a DeFi product on TON and a TMA that hit **50,000+ users in 3 months**
 - ⚡ Optimized SPA load time by **40%** on a production app (lazy loading, code splitting, Vite tuning)
@@ -19,7 +19,7 @@ I'm Andrey — Senior Frontend Engineer, 5 years. Mostly Vue/React + TypeScript,
 ### Stack
 
 **Daily:** Vue 3, TypeScript, Pinia, Tailwind, Vite, Vitest
-**Also strong:** React, Redux Toolkit + RTK Query, Webpack
+**Also experienced with:** React, Redux Toolkit + RTK Query, Webpack
 **Web3:** @ton/ton, @ton/crypto, TON Connect, Telegram Mini Apps SDK
 **Tooling:** ESLint, oxlint, Prettier, MCP servers, Claude Code skills
 
