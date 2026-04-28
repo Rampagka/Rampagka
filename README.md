@@ -25,12 +25,14 @@ I'm Andrey — Senior Frontend Engineer, 5 years. Mostly Vue/React + TypeScript,
 
 ### Featured
 
-- **[ton-self-custodial-wallet](https://github.com/Rampagka/ton-self-custodial-wallet)** — self-custodial TON wallet with address-poisoning protection, built Vue 3 + TypeScript
+- **[ton-self-custodial-wallet](https://github.com/Rampagka/ton-self-custodial-wallet)** — self-custodial TON wallet with address-poisoning protection. 
+CI, unit tests, full README with screenshots. 
+Stack: Vue 3 + TypeScript + Pinia + Vitest.
 
 ### Currently
 
-- Learning: NestJS for fullstack, English up to solid B1
-- Open to: remote Frontend / Web3 roles
+- Learning: NestJS for fullstack, English: currently improving from A2 to B1
+- Open to: remote Senior Frontend roles (Vue)
 
 ### Contact
 
